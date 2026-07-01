@@ -1,16 +1,173 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Likhith D Gowda</h1>
 
-<!--
-**Likhi17/Likhi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Python QA Automation Engineer | Functional Testing | Selenium | Playwright | API Testing | Immediate Joiner
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+• QA Automation Engineer with 2.5+ years of professional experience at Mphasis.
+
+• Experienced in Functional Testing, Python Automation, Selenium WebDriver, Playwright, API Testing, SQL and Jenkins.
+
+• Skilled in developing scalable automation frameworks using Python, Selenium, Pytest and Page Object Model (POM).
+
+• Hands-on experience in REST API Testing using Postman and Python Requests.
+
+• Strong understanding of STLC, SDLC, Defect Life Cycle, Agile Scrum and CI/CD.
+
+• Passionate about building reliable automation frameworks and continuously learning modern QA technologies.
+
+• Actively looking for opportunities in:
+  - Functional Testing
+  - Python Selenium Automation
+  - API Automation Testing
+  - Playwright Automation
+
+• 🚀 Immediate Joiner | Open to Work
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+
+### Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Integration Testing
+- System Testing
+- UAT
+
+### Automation Testing
+- Selenium WebDriver
+- Playwright
+- Pytest
+
+### API Testing
+- REST API
+- SOAP API
+- Postman
+- Requests Library
+
+### Frameworks
+- Page Object Model (POM)
+- Data-Driven Framework
+- Hybrid Framework
+- BDD
+
+### CI/CD & Version Control
+- Jenkins
+- Git
+- GitHub
+
+### Database
+- SQL
+
+### Tools
+- Jira
+- Confluence
+- PyCharm
+- Allure Reports
+- HTML Reports
+
+### Methodologies
+- Agile
+- Scrum
+
+---
+
+## 🚀 Featured Projects
+
+### Selenium Hybrid Automation Framework
+✔ Python
+✔ Selenium WebDriver
+✔ Pytest
+✔ Page Object Model
+✔ Jenkins Integration
+
+### Playwright Automation Framework
+✔ Playwright with Python
+✔ Cross Browser Automation
+✔ UI Automation
+
+### REST API Automation Framework
+✔ Python Requests
+✔ Postman
+✔ Pytest
+✔ Allure Reports
+
+### Selenium Learning Repository
+✔ Selenium Concepts
+✔ XPath
+✔ CSS Selectors
+✔ Waits
+✔ Web Elements
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer | Mphasis Ltd.
+
+📅 Dec 2021 – Mar 2024
+
+Worked on enterprise web applications for a leading US-based client.
+
+**Key Skills**
+- Functional Testing
+- Python Automation
+- Selenium
+- Playwright
+- API Testing
+- SQL
+- Jenkins
+- Agile Scrum
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Playwright Automation
+- AI in Test Automation
+- GitHub Actions
+- Docker for Test Automation
+
+---
+
+## 📫 Connect with Me
+
+📧 Email:
+likhithlikhi17@gmail.com
+
+📍 Bengaluru, Karnataka, India
+
+💼 LinkedIn:
+https://www.linkedin.com/in/likhith-gowda-370091180/
+
+💻 GitHub:
+https://github.com/Likhi17
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as:
+
+✅ Functional Test Engineer
+
+✅ QA Automation Engineer
+
+✅ Python Selenium Automation Engineer
+
+✅ API Automation Test Engineer
+
+✅ Playwright Automation Engineer
+
+📍 Preferred Location: Bengaluru / Hyderabad
+
+🚀 Immediate Joiner
