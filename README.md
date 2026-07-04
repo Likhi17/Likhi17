@@ -22,6 +22,7 @@ Python QA Automation Engineer | Functional Testing | Selenium | Playwright | API
 
 • Actively looking for opportunities in:
   - Functional Testing
+  - QA Engineer
   - Python Selenium Automation
   - API Automation Testing
   - Playwright Automation
