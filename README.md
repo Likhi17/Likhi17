@@ -217,4 +217,4 @@ Seeking opportunities as:
 
 📍 Preferred Location: Bengaluru / Hyderabad
 
-🚀 Immediate Joiner 
+🚀 Immediate Joiner |
