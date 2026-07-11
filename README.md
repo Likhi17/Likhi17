@@ -155,6 +155,7 @@ Worked on enterprise web applications for a leading US-based client.
 - SQL
 - Jenkins
 - Agile Scrum
+- Postman
 
 ---
 
