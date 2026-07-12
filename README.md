@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Likhith D Gowda</h1>
 
 <h3 align="center">
-Python QA Automation Engineer | Functional Testing | Selenium | Playwright | API Testing | Immediate Joiner
+ QA Automation Engineer | Python | Functional Testing | Selenium | Playwright | API Testing | Immediate Joiner
 </h3>
 
 ---
