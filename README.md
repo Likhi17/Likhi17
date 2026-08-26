@@ -42,7 +42,7 @@
 - Smoke Testing
 - Integration Testing
 - System Testing
-- UAT
+- UAT Testing
 
 ### Automation Testing
 - Selenium WebDriver
