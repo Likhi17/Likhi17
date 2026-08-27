@@ -192,7 +192,9 @@ Worked on enterprise web applications for a leading US-based client.
 📧 Email:
 likhithlikhi17@gmail.com
 
-📍 Bengaluru, Karnataka, India
+📍 Bengaluru, 
+Karnataka, 
+India
 
 💼 LinkedIn:
 https://www.linkedin.com/in/likhith-gowda-370091180/
