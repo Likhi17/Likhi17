@@ -10,7 +10,7 @@
 
 • QA Automation Engineer with 2.5+ years of professional experience at Mphasis.
 
-• Experienced in Functional Testing, Performance Testing, Regression testing,Python Automation, Selenium WebDriver, Playwright, API Testing, SQL and Jenkins.
+• Experienced in Functional Testing, Performance Testing, Sanity testing,Python Automation, Selenium WebDriver, Playwright, API Testing, SQL and Jenkins.
 
 • Skilled in developing scalable automation frameworks using Python, Selenium, Pytest and Page Object Model (POM).
 
