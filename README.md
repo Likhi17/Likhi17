@@ -22,6 +22,7 @@
 
 • Actively looking for opportunities in:
   - Functional Testing
+  - Performance Testing
   - QA Engineer
   - Python Selenium Automation
   - API Automation Testing
