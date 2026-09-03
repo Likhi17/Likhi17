@@ -71,6 +71,7 @@
 
 ### Database
 - SQL
+- DBMS
 
 ### Tools
 - Jira
