@@ -36,6 +36,7 @@
 
 ### Programming
 - Python
+- Java Basics
 
 ### Manual Testing
 - Functional Testing
