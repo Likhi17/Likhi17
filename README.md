@@ -12,7 +12,7 @@
 
 • Experienced in Functional Testing, Performance Testing, Python Automation, Selenium WebDriver, Playwright, API Testing, SQL and Jenkins.
 
-• Skilled in developing scalable automation frameworks using Python, Selenium, Pytest and Page Object Model (POM).
+• Skilled in developing scalable automation frameworks using Python, Selenium, Pytest framework and Page Object Model (POM).
 
 • Hands-on experience in REST API Testing using Postman and Python Requests.
 
