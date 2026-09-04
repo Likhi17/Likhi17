@@ -27,7 +27,6 @@
   - Python Selenium Automation
   - API Automation Testing
   - Playwright Automation
-  - Python Automation with Playwright
 
 • 🚀 Immediate Joiner | Open to Work
 
