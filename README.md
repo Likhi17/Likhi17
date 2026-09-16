@@ -20,6 +20,9 @@
 
 • Passionate about building reliable automation frameworks and continuously learning modern QA technologies.
 
+• Upskilling and Exploring AI-Assisted Software Testing & AI Testing | Using AI tools to improve test case generation, test automation, API testing, test analysis, and QA workflows
+
+
 • Actively looking for opportunities in:
   - Functional Testing
   - Performance Testing
