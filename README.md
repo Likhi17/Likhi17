@@ -64,7 +64,7 @@
 - Page Object Model (POM)
 - Data-Driven Framework
 - Hybrid Framework
-- BDD
+- Behavioural Driven Development
 
 ### CI/CD & Version Control
 - Jenkins
