@@ -57,7 +57,7 @@
 ### API Testing
 - REST API
 - SOAP API
-- Postman
+- Postman Tool
 - Requests Library
 
 ### Frameworks
