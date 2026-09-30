@@ -46,6 +46,7 @@
 ### Manual Testing
 - Functional Testing
 - Regression Testing
+- Retesting
 - Smoke Testing
 - Integration Testing
 - System Testing
