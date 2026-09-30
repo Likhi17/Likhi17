@@ -226,6 +226,6 @@ Seeking opportunities as:
 
 ✅ Playwright Automation Engineer
 
-📍 Preferred Location: Bengaluru / Hyderabad / Pune
+📍 Preferred Location: Bengaluru / Hyderabad / Pune / Chennai
 
 🚀 Immediate Joiner |
