@@ -74,6 +74,7 @@
 - Git
 - GitHub
 - Docker
+- kubernetes
 
 ### Database
 - SQL
