@@ -40,7 +40,6 @@
 
 ### Programming
 - Python
-- c#
 - Java Basics
 - Oops
 
