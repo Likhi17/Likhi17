@@ -31,6 +31,7 @@
   - Python Selenium Automation
   - API Automation Testing
   - Playwright Automation
+  - Ai Test Engineer
 
 • 🚀 Immediate Joiner | Open to work
 
@@ -46,7 +47,6 @@
 ### Manual Testing
 - Functional Testing
 - Regression Testing
-- Retesting
 - Smoke Testing
 - Integration Testing
 - System Testing
