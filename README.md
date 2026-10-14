@@ -22,6 +22,8 @@
 
 • Upskilling and Exploring AI-Assisted Software Testing & AI Testing | Using AI tools to improve test case generation, test automation, API testing, test analysis, and QA workflows
 
+• Familiar with AI-powered testing tools and techniques to enhance test case design, generate automation scripts, identify edge cases, analyze defects, and improve overall testing efficiency.
+
 
 • Actively looking for opportunities in:
   - Functional Testing
