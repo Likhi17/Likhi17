@@ -27,6 +27,7 @@
   - Functional Testing
   - Performance Testing
   - Sql analyst
+  - Data Analyst
   - QA Engineer
   - Python Selenium Automation
   - API Automation Testing
