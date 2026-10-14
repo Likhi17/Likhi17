@@ -48,6 +48,7 @@
 - Functional Testing
 - Regression Testing
 - Smoke Testing
+- Sanity Testing
 - Integration Testing
 - System Testing
 - UAT Testing
