@@ -141,7 +141,7 @@
 
 ### Selenium Learning Repository
 ✔ Selenium Concepts
-✔ XPath
+✔ XPath - Absolute & Relative 
 ✔ CSS Selectors
 ✔ Waits
 ✔ Web Elements
