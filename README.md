@@ -35,7 +35,7 @@
   - API Automation Testing
   - Playwright Automation
 
-• 🚀 Immediate Joiner | Open to work
+• 🚀 Immediate Joiner
 
 ---
 
