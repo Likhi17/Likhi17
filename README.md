@@ -24,6 +24,23 @@
 
 • Familiar with AI-powered testing tools and techniques to enhance test case design, generate automation scripts, identify edge cases, analyze defects, and improve overall testing efficiency.
 
+• Experienced in handling dynamic web elements, explicit waits, assertions, browser interactions, and synchronization issues in UI automation.
+
+• Understanding of test case prioritization, regression test optimization, and identifying suitable scenarios for automation.
+
+• Skilled in validating API responses, HTTP status codes, response bodies, headers, JSON data, and negative test scenarios.
+
+• Knowledge of SQL queries and database validation to ensure data accuracy, consistency, and integrity.
+
+• Familiar with debugging automation failures, analyzing test execution results, and identifying root causes of defects.
+
+• Understanding of BDD concepts and writing readable test scenarios using structured, behavior-driven approaches.
+
+• Exploring AI-assisted testing techniques for test case generation, automation script creation, test data generation, edge-case identification, and defect analysis.
+
+• Exploring AI-powered testing tools to improve test coverage, accelerate repetitive QA activities, and enhance testing productivity.
+
+• Interested in modern quality engineering practices, continuous testing, CI/CD integration, and emerging AI-driven testing methodologies.
 
 • Actively looking for opportunities in:
   - Functional Testing
