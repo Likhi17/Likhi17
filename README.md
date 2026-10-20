@@ -162,6 +162,7 @@ Worked on enterprise web applications for a leading US-based client.
 
 **Key Skills**
 - Functional Testing
+- Regression Testing 
 - Python Automation
 - Selenium
 - Playwright
