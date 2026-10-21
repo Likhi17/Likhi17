@@ -42,15 +42,16 @@
 
 • Interested in modern quality engineering practices, continuous testing, CI/CD integration, and emerging AI-driven testing methodologies.
 
-• Actively looking for opportunities in:
-  - Functional Testing
-  - Performance Testing
-  - Sql analyst
-  - Data Analyst
-  - QA Engineer
-  - Python Selenium Automation
-  - API Automation Testing
-  - Playwright Automation
+• Actively Looking for Opportunities In:
+
+- QA Engineer / Quality Assurance Engineer
+- Functional Testing / Manual Testing
+- Python Selenium Automation Testing
+- Playwright Automation Testing
+- API Automation Testing
+- Performance Testing
+- SQL Analyst
+- Data Analyst
 
 • 🚀 Immediate Joiner
 
