@@ -184,32 +184,39 @@
 
 ## 💼 Professional Experience
 
-### Software Engineer | Mphasis Ltd.
+Software Engineer | Mphasis Ltd.
 
-📅 Dec 2021 – Mar 2024
+📅 December 2021 – March 2024
 
-Worked on enterprise web applications for a leading US-based client.
+- Worked on enterprise web applications for a US-based client.
+- Gained experience in Functional Testing, Regression Testing, and Agile Scrum.
+- Focused on test execution, defect reporting, and quality assurance.
+- Built and enhanced skills in Python Automation, Selenium, Playwright, and API Testing.
+- Worked with SQL, Postman, Jenkins, and other QA tools.
 
-**Key Skills**
-- Functional Testing
-- Regression Testing 
-- Python Automation
-- Selenium
+## Key Skills
+
+- Manual & Functional Testing
+- Regression Testing
+- Python Automation Testing
+- Selenium WebDriver
 - Playwright
-- API Testing
-- SQL
+- REST API Testing
+- Postman
+- SQL Database Testing
 - Jenkins
 - Agile Scrum
-- Postman
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Upskilling
 
-- Advanced Playwright Automation
-- AI in Test Automation
-- GitHub Actions
+- Advanced Playwright Automation with Python
+- AI-Powered Test Automation
+- GitHub Actions for CI/CD
 - Docker for Test Automation
+- Building Scalable Automation Frameworks
+- Automation Testing Best Practices
 
 ---
 
