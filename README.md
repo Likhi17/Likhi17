@@ -56,61 +56,73 @@
 • 🚀 Immediate Joiner
 
 ---
-
 ## 🛠 Tech Stack
 
-### Programming
-- Python
-- Java Basics
-- Oops
+### 💻 Programming Languages
 
-### Manual Testing
+- Python
+- Java (Basics)
+- Object-Oriented Programming (OOP)
+
+### 🧪 Manual Testing
+
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - Sanity Testing
 - Integration Testing
 - System Testing
-- UAT Testing
+- User Acceptance Testing (UAT)
 
-### Automation Testing
+### 🤖 Automation Testing
+
 - Selenium WebDriver
 - Playwright
 - Pytest
 
-### API Testing
-- REST API
-- SOAP API
-- Postman Tool
-- Requests Library
+### 🔗 API Testing
 
-### Frameworks
+- REST API Testing
+- SOAP API Testing
+- Postman
+- Python Requests Library
+
+### 🏗 Frameworks & Design Patterns
+
 - Page Object Model (POM)
 - Data-Driven Framework
-- Hybrid Framework
-- Behavioural Driven Development
+- Hybrid Automation Framework
+- Behavior-Driven Development (BDD)
 
-### CI/CD & Version Control
+### ⚙️ CI/CD, Version Control & DevOps
+
 - Jenkins
 - Git
 - GitHub
 - Docker
-- kubernetes
+- Kubernetes (Basics, if applicable)
 
-### Database
+### 🗄️ Database Testing
+
 - SQL
 - DBMS
+- Backend Database Validation
 
-### Tools
+### 🧰 Tools & Reporting
+
 - Jira
 - Confluence
 - PyCharm
 - Allure Reports
-- HTML Reports
+- HTML Test Reports
 
-### Methodologies
+### 🔄 Methodologies
+
 - Agile
 - Scrum
+- Software Testing Life Cycle (STLC)
+- Software Development Life Cycle (SDLC)
+  
 
 <p align="left">
 
