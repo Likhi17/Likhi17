@@ -68,6 +68,7 @@
 
 - Functional Testing
 - Regression Testing
+- Retesting
 - Smoke Testing
 - Sanity Testing
 - Integration Testing
