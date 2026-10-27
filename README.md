@@ -73,6 +73,7 @@
 - Sanity Testing
 - Integration Testing
 - System Testing
+- AI Testing
 - User Acceptance Testing (UAT)
 
 ### 🤖 Automation Testing
