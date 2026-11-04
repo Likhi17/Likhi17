@@ -107,6 +107,7 @@
 ### 🗄️ Database Testing
 
 - SQL
+- Postgresql
 - DBMS
 - Backend Database Validation
 
