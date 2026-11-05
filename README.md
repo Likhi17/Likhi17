@@ -75,6 +75,7 @@
 - System Testing
 - AI Testing
 - User Acceptance Testing (UAT)
+- STLC & SDLC
 
 ### 🤖 Automation Testing
 
