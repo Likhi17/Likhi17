@@ -115,6 +115,7 @@
 ### 🧰 Tools & Reporting
 
 - Jira
+- Postman
 - Confluence
 - PyCharm
 - Allure Reports
