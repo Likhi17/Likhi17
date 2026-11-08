@@ -109,6 +109,7 @@
 
 - SQL
 - Postgresql
+- SqlServer
 - DBMS
 - Backend Database Validation
 
