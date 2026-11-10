@@ -104,6 +104,7 @@
 - Git
 - GitHub
 - Docker
+- Aws
 - Kubernetes (Basics, if applicable)
 
 ### 🗄️ Database Testing
