@@ -68,7 +68,6 @@
 
 - Functional Testing
 - Regression Testing
-- Retesting
 - System Testing
 - Smoke Testing
 - Sanity Testing
