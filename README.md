@@ -77,6 +77,7 @@
 - User Acceptance Testing (UAT)
 - STLC & SDLC
 - Bug Life Cycle
+- Bug Leakage
 
 ### 🤖 Automation Testing
 
