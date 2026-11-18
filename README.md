@@ -53,7 +53,7 @@
 - SQL Analyst
 - Data Analyst
 
-• 🚀 Immediate Joiner
+• 🚀 Immediate Joiner | Open to Work
 
 ---
 ## 🛠 Tech Stack
