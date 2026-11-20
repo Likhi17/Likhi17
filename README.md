@@ -42,6 +42,13 @@
 
 • Interested in modern quality engineering practices, continuous testing, CI/CD integration, and emerging AI-driven testing methodologies.
 
+🤖 AI & Emerging Technologies
+
+- LLM (Large Language Models): Understanding LLM fundamentals, prompt engineering, and AI-powered testing workflows.
+- MCP (Model Context Protocol): Exploring MCP architecture, tool integration, and AI agent interactions.
+- AI-Assisted Testing: Exploring AI-powered test case generation, test script creation, test analysis, and test automation workflows.
+- AI in Test Automation: Learning how LLMs and AI agents can improve software testing efficiency and automation.
+
 • Actively Looking for Opportunities In:
 
 - QA Engineer / Quality Assurance Engineer
